@@ -59,3 +59,8 @@ https://www.webaccessibility.fi/requirements-of-the-act-on-the-provision-of-digi
     -   There are also other tools for checking color contrast accessibility
 -   There are much more issues that can not be found by automatic tools but need human testing
     -   Eg. https://www.w3.org/WAI/test-evaluate/preliminary/
+
+## Ideas from the panel discussion
+
+-   Inclusion and diversity within an organization helps create more accessible products and services
+-   https://gameaccessibilityguidelines.com/
